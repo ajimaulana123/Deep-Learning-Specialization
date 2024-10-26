@@ -1,7 +1,3 @@
-# Deep-Learning-Specialization
-
-Deep learning itu intinya ngajarin jaringan saraf buatan gede buat tugas-tugas kaya nebak harga rumah berdasarkan banyak faktor.
-
 # Apa itu Neural Network
 
 Oke, jadi begini, bro! Neural Network itu semacam “otak buatan” yang diajarin buat ngambil keputusan atau ngenalin pola, mirip kayak otak kita sendiri yang bisa nyambung-nyambungin informasi. Bayangin aja kayak jaringan kabel-kabel (disebut *neuron*) yang tersambung rapet satu sama lain.
